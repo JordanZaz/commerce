@@ -1,0 +1,12 @@
+body {
+    padding: 10px;
+}
+
+
+#truncateLongTexts {
+  width: 100px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  overflow: scroll;
+}
